@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou aprendendo front-end <br><br>Já tenho um plano traçado do básico ao avançado<br><br>Estou iniciando pelo HTML, depois vou para o CSS e logo em seguida java script
+Estou aprendendo front-end <br><br>Já tenho um plano traçado do básico ao avançado<br><br>Estou iniciando pelo HTML, depois vou para o CSS e logo em seguida JavaScript
 
 
 ## 🌐 Socials:
